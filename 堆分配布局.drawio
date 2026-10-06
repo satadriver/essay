@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="WNQ4etILq5p3bkWiq-nM">
-    <mxGraphModel dx="1022" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="958" dy="578" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,9 +91,6 @@
         </mxCell>
         <mxCell id="L6CLaVXVuG_25ezrrJhb-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;0x1013&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;8&lt;/span&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="60" x="740" y="240" as="geometry" />
-        </mxCell>
-        <mxCell id="MHTqsrvbDziuf4WGJGTV-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="." vertex="1">
-          <mxGeometry height="30" width="60" x="450" y="640" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
