@@ -56,6 +56,21 @@
         <mxCell id="Vk4Q3Re_PaL9ntabrkoI-21" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="&lt;span style=&quot;font-family: 宋体; font-size: 14px;&quot;&gt;调度返回&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="340" y="410" as="geometry" />
         </mxCell>
+        <mxCell id="3-w43twQTNx4XZC2EzRT-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=宋体;fontSize=14;" value="模型训练" vertex="1">
+          <mxGeometry height="60" width="120" x="340" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="3-w43twQTNx4XZC2EzRT-2" edge="1" parent="1" source="Vk4Q3Re_PaL9ntabrkoI-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=宋体;fontSize=14;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="3-w43twQTNx4XZC2EzRT-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="290" as="sourcePoint" />
+            <mxPoint x="380" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3-w43twQTNx4XZC2EzRT-4" edge="1" parent="1" source="3-w43twQTNx4XZC2EzRT-1" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" target="Vk4Q3Re_PaL9ntabrkoI-4" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="440" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
