@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="tuRsYd4Flzz0ufIEiu_m" name="第 1 页">
-    <mxGraphModel dx="1231" dy="664" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1110" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -295,9 +295,6 @@
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-109" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=宋体;" value="优先级因子量化" vertex="1">
           <mxGeometry height="40" width="240" x="74" y="450" as="geometry" />
-        </mxCell>
-        <mxCell id="hYSza6ZVIw57Nh6peYML-125" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=宋体;" value="&amp;nbsp;模型输入数据：(1，N x 10)一维向量" vertex="1">
-          <mxGeometry height="60" width="260" x="298.4166836208768" y="357.55555555555554" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
