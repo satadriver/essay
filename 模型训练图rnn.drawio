@@ -46,12 +46,6 @@
         <mxCell id="hYSza6ZVIw57Nh6peYML-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=宋体;" value="优先级因子个数10" vertex="1">
           <mxGeometry height="40" width="240" x="480" y="160" as="geometry" />
         </mxCell>
-        <mxCell id="hYSza6ZVIw57Nh6peYML-36" edge="1" parent="1" source="hYSza6ZVIw57Nh6peYML-10" style="endArrow=classic;html=1;rounded=0;exitX=0.344;exitY=0.987;exitDx=0;exitDy=0;fontSize=14;fontFamily=宋体;entryX=0.593;entryY=-0.026;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" target="hYSza6ZVIw57Nh6peYML-37" value="">
-          <mxGeometry height="50" relative="1" width="50" as="geometry">
-            <mxPoint x="334" y="640" as="sourcePoint" />
-            <mxPoint x="474" y="698.2" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-37" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#F0F0F0,#121212);" value="模型输入层" vertex="1">
           <mxGeometry height="60" width="600" x="80" y="610" as="geometry" />
         </mxCell>
@@ -167,7 +161,7 @@
         <mxCell id="hYSza6ZVIw57Nh6peYML-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#F8F8F8,#121212);" value="线程1" vertex="1">
           <mxGeometry height="40" width="126" x="40" y="1150" as="geometry" />
         </mxCell>
-        <mxCell id="hYSza6ZVIw57Nh6peYML-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#A0A0A0,#121212);" value="交叉熵损失函数" vertex="1">
+        <mxCell id="hYSza6ZVIw57Nh6peYML-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#A0A0A0,#121212);" value="softmax" vertex="1">
           <mxGeometry height="60" width="406.75" x="110.25" y="1040" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-73" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=宋体;" target="hYSza6ZVIw57Nh6peYML-56" value="">
@@ -257,9 +251,6 @@
         <mxCell id="U0HGXlO6pPiMgbSaJepZ-27" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=#909090;" value="H_1" vertex="1">
           <mxGeometry height="60" width="80" x="199" y="840" as="geometry" />
         </mxCell>
-        <mxCell id="U0HGXlO6pPiMgbSaJepZ-35" edge="1" parent="1" source="U0HGXlO6pPiMgbSaJepZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=宋体;" target="U0HGXlO6pPiMgbSaJepZ-10" value="">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="U0HGXlO6pPiMgbSaJepZ-36" edge="1" parent="1" source="U0HGXlO6pPiMgbSaJepZ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=宋体;" target="U0HGXlO6pPiMgbSaJepZ-6" value="">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -282,6 +273,12 @@
           <mxGeometry height="50" relative="1" width="50" as="geometry">
             <mxPoint x="440" y="930" as="sourcePoint" />
             <mxPoint x="490" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="U0HGXlO6pPiMgbSaJepZ-51" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.52;entryY=0.094;entryDx=0;entryDy=0;entryPerimeter=0;" target="hYSza6ZVIw57Nh6peYML-37" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="560" as="sourcePoint" />
+            <mxPoint x="440" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

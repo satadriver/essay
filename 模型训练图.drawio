@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram id="tuRsYd4Flzz0ufIEiu_m" name="第 1 页">
-    <mxGraphModel dx="1110" dy="670" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="923" dy="557" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,25 +149,25 @@
         <mxCell id="hYSza6ZVIw57Nh6peYML-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=宋体;" value="&amp;nbsp;样本：(N , 10) 二维向量" vertex="1">
           <mxGeometry height="40" width="206" x="474" y="480" as="geometry" />
         </mxCell>
-        <mxCell id="hYSza6ZVIw57Nh6peYML-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=#D0D0D0;" value="隐藏层节点" vertex="1">
+        <mxCell id="hYSza6ZVIw57Nh6peYML-56" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=#D0D0D0;" value="隐藏层节点+RELU" vertex="1">
           <mxGeometry height="60" width="80" x="124" y="710" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-58" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#D0D0D0,#121212);" value="......" vertex="1">
           <mxGeometry height="60" width="80" x="284" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="hYSza6ZVIw57Nh6peYML-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#D0D0D0,#121212);" value="隐藏层节点" vertex="1">
+        <mxCell id="hYSza6ZVIw57Nh6peYML-59" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#D0D0D0,#121212);" value="隐藏层节点+RELU" vertex="1">
           <mxGeometry height="60" width="80" x="444" y="710" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-60" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=宋体;" value="64个节点" vertex="1">
           <mxGeometry height="60" width="80" x="524" y="710" as="geometry" />
         </mxCell>
-        <mxCell id="hYSza6ZVIw57Nh6peYML-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#D0D0D0,#121212);" value="隐藏层节点" vertex="1">
+        <mxCell id="hYSza6ZVIw57Nh6peYML-61" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#D0D0D0,#121212);" value="隐藏层节点+RELU" vertex="1">
           <mxGeometry height="60" width="80" x="124" y="830" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-62" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#D0D0D0,#121212);" value="......" vertex="1">
           <mxGeometry height="60" width="80" x="284" y="830" as="geometry" />
         </mxCell>
-        <mxCell id="hYSza6ZVIw57Nh6peYML-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#D0D0D0,#121212);" value="隐藏层节点" vertex="1">
+        <mxCell id="hYSza6ZVIw57Nh6peYML-64" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#D0D0D0,#121212);" value="隐藏层节点+RELU" vertex="1">
           <mxGeometry height="60" width="80" x="444" y="830" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-65" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=宋体;" value="64个节点" vertex="1">
@@ -176,7 +176,7 @@
         <mxCell id="hYSza6ZVIw57Nh6peYML-71" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#F8F8F8,#121212);" value="线程1" vertex="1">
           <mxGeometry height="40" width="126" x="74" y="1070" as="geometry" />
         </mxCell>
-        <mxCell id="hYSza6ZVIw57Nh6peYML-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#A0A0A0,#121212);" value="交叉熵损失函数" vertex="1">
+        <mxCell id="hYSza6ZVIw57Nh6peYML-72" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#A0A0A0,#121212);" value="SOFTMAX" vertex="1">
           <mxGeometry height="60" width="400" x="124" y="950" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-73" edge="1" parent="1" source="hYSza6ZVIw57Nh6peYML-37" style="endArrow=classic;html=1;rounded=0;exitX=0.099;exitY=1.037;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=宋体;" target="hYSza6ZVIw57Nh6peYML-56" value="">
@@ -282,10 +282,10 @@
           <mxGeometry height="40" width="120" x="318" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-99" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#F8F8F8,#121212);" value="线程 N-1" vertex="1">
-          <mxGeometry height="40" width="114" x="440" y="1070" as="geometry" />
+          <mxGeometry height="40" width="120" x="438" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-100" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=宋体;fillColor=light-dark(#F8F8F8,#121212);" value="线程 N" vertex="1">
-          <mxGeometry height="40" width="126" x="554" y="1070" as="geometry" />
+          <mxGeometry height="40" width="114" x="558" y="1070" as="geometry" />
         </mxCell>
         <mxCell id="hYSza6ZVIw57Nh6peYML-102" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;fontFamily=宋体;" value="输出层：(N，1)向量 ONEHOT编码[0,1,...,0]" vertex="1">
           <mxGeometry height="40" width="291" x="400" y="1020" as="geometry" />
